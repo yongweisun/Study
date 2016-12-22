@@ -20,7 +20,7 @@ class shortContainer : IEnumerable<short>
     {
         public ShortContainerEnumerator(shortContainer Container)
         {
-            myContainer = Container;
+            myContainer = Container; 
         }
         shortContainer myContainer;
         int position = -1;

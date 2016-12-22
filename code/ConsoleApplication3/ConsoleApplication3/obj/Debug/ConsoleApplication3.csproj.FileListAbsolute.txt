@@ -1,0 +1,5 @@
+M:\MyGitProjects\cici9\Study\code\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+M:\MyGitProjects\cici9\Study\code\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+M:\MyGitProjects\cici9\Study\code\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+M:\MyGitProjects\cici9\Study\code\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+M:\MyGitProjects\cici9\Study\code\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

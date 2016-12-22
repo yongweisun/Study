@@ -5,7 +5,7 @@ using System.Text;
 using System.Collections;
 class shortContainer : IEnumerable<short>
 {
-    private short[] ints = new short[] { 8,9,0};
+    private short[] shorts = new short[] { 8,9,0};
     public IEnumerator GetEnumerator()
     {
         return new ShortContainerEnumerator(this);
@@ -27,13 +27,13 @@ class shortContainer : IEnumerable<short>
         public bool MoveNext()
         {
             position++;
-            return (position<myContainer.ints.Length);
+            return (position<myContainer.shorts.Length);
         }
         public short Current
         {
             get
             {
-                return myContainer.ints[position];
+                return myContainer.shorts[position];
             }
         }
 

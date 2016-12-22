@@ -41,7 +41,7 @@ class shortContainer : IEnumerable<short>
         {
             get
             {
-                return  Current;
+                return  Current; 
             }
         }
 
